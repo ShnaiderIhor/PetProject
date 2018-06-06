@@ -34,7 +34,6 @@ namespace PetProject
                 app.UseDeveloperExceptionPage();
             }
 
-
             app.UseMvc();
         }
     }
